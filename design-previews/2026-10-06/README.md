@@ -31,3 +31,11 @@ Five proposed interface and icon directions. These are generated visual concepts
 ![ORBIT](05-orbit.png)
 
 [Open full-size image](05-orbit.png)
+
+## 6. ORBIT × ARCADE
+
+Hybrid preview requested by the owner: ORBIT library and showcase layout with ARCADE cream, graphite, orange and a combined icon. This is a visual proposal before implementation.
+
+![ORBIT × ARCADE](06-orbit-arcade.png)
+
+[Open full-size image](06-orbit-arcade.png)
